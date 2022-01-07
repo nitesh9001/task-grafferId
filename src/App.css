@@ -1,0 +1,41 @@
+
+.app{
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.overlays-dashboard{
+  height: 100%;
+  overflow-y: scroll;
+}
+
+.main-nav-wrapper{
+  width: 100%;
+  margin: 0 auto;
+  height: 80px;
+  background-color: rgba(0, 0, 0, 0.507);
+
+}
+
+.nav-logo{
+  display: flex;
+}
+.main_card_wrap{
+  width: 84%;
+  margin-bottom: 40px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.card{
+  width: 220px;
+  background-color: rgb(207, 207, 207);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}

@@ -1,0 +1,4 @@
+export const ActionTypes = {
+    SETPEOPLELIST : "SETPEOPLELIST",
+    SNACKBAR_SHOW: "SNACKBAR_SHOW",
+}
